@@ -5,7 +5,7 @@
 This project implements a contextual bandit algorithm using logistic regression as the base algorithm. The goal is to optimize the cumulative reward in a multi-label classification problem.
 
 ## About Dataset
-(https://www.kaggle.com/datasets/ravikrishnareddy/women-health-care-requirements/data)
+https://www.kaggle.com/datasets/ravikrishnareddy/women-health-care-requirements/data
 
 ## Features
 * Implements a contextual bandit algorithm using logistic regression as the base algorithm
